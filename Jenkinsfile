@@ -107,6 +107,7 @@ stage("Trivy Scan") {
       }      
    }	
 }
+	
 
 
 
